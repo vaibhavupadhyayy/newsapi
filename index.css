@@ -1,0 +1,30 @@
+body{
+background-color:white;
+
+
+
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.high{
+   height: 50px;
+}
+
+.whit{
+    color: white;
+}
+
+
+.colred{
+    color: red;
+}
+
+
+h5{
+    color: rgb(6, 28, 138);
+}
